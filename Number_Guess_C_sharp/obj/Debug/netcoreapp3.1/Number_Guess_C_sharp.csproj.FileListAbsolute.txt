@@ -1,0 +1,11 @@
+C:\Users\mahdi\Pictures\C_Sharp\Number_Guess_C_sharp\bin\Debug\netcoreapp3.1\Number_Guess_C_sharp.exe
+C:\Users\mahdi\Pictures\C_Sharp\Number_Guess_C_sharp\bin\Debug\netcoreapp3.1\Number_Guess_C_sharp.deps.json
+C:\Users\mahdi\Pictures\C_Sharp\Number_Guess_C_sharp\bin\Debug\netcoreapp3.1\Number_Guess_C_sharp.runtimeconfig.json
+C:\Users\mahdi\Pictures\C_Sharp\Number_Guess_C_sharp\bin\Debug\netcoreapp3.1\Number_Guess_C_sharp.runtimeconfig.dev.json
+C:\Users\mahdi\Pictures\C_Sharp\Number_Guess_C_sharp\bin\Debug\netcoreapp3.1\Number_Guess_C_sharp.dll
+C:\Users\mahdi\Pictures\C_Sharp\Number_Guess_C_sharp\bin\Debug\netcoreapp3.1\Number_Guess_C_sharp.pdb
+C:\Users\mahdi\Pictures\C_Sharp\Number_Guess_C_sharp\obj\Debug\netcoreapp3.1\Number_Guess_C_sharp.csprojAssemblyReference.cache
+C:\Users\mahdi\Pictures\C_Sharp\Number_Guess_C_sharp\obj\Debug\netcoreapp3.1\Number_Guess_C_sharp.AssemblyInfoInputs.cache
+C:\Users\mahdi\Pictures\C_Sharp\Number_Guess_C_sharp\obj\Debug\netcoreapp3.1\Number_Guess_C_sharp.AssemblyInfo.cs
+C:\Users\mahdi\Pictures\C_Sharp\Number_Guess_C_sharp\obj\Debug\netcoreapp3.1\Number_Guess_C_sharp.dll
+C:\Users\mahdi\Pictures\C_Sharp\Number_Guess_C_sharp\obj\Debug\netcoreapp3.1\Number_Guess_C_sharp.pdb
